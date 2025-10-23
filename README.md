@@ -9,7 +9,6 @@ Each folder contains a self-contained app or script with clear steps to run it l
 
 ## ✅ Projects Overview
 
-|---------------|--------------|--------|
 | **Cafe_management_sys** | A simple cafe/restaurant management system (orders, menu, billing). | ☕🍽️ |
 | **Calculator** | GUI/console calculator for basic arithmetic operations. | ➕➖✖️➗ |
 | **Clock** | A digital clock that displays current time using `tkinter`. | 🕒 |
